@@ -1,0 +1,2 @@
+# SpotiQ
+This is my first project.
